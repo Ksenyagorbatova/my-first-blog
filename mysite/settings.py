@@ -25,7 +25,7 @@ SECRET_KEY = 'os1pbez*1e&++b(8ag0ev0ps=pbi(s!jdflumx=a)f!bq7_fst'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Letra.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Letra.pythonanywhere.com', 'letra.pythonanywhere.com']
 
 
 # Application definition
